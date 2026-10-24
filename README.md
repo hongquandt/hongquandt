@@ -7,7 +7,7 @@ I am a final-year Software Engineering student at **FPT University** (GPA: 3.3/4
 - 🔭 **Featured Product:** Creator of **[MockMate](https://mock-mate.app/)** — an AI-powered mock interview simulator.
 - 💼 **Experience:** Former .NET Developer Intern @ **FPT Software Da Nang**.
 - 🌱 **Core Focus:** 3-Layer Architecture, Repository & Unit of Work Patterns, SignalR, Docker, and AI API Integration.
-- 🏆 **Achievements:** 4x Excellent Student Award & Top 100 Students at FPT University.
+- 🏆 **Achievements:** 5x Excellent Student Award & Top 100 Students at FPT University.
 - 📫 **Reach me at:** [quan241004@gmail.com](mailto:quan241004@gmail.com)
 
 ---
