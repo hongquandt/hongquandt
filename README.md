@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Software Engineer (.NET & ReactJS)
 
-I am a final-year Software Engineering student at **FPT University** (GPA: 3.3/4.0) with hands-on internship experience at **FPT Software Da Nang**. I specialize in building robust backend systems using **C# / ASP.NET Core** and responsive front-ends with **ReactJS**, adhering to Clean Architecture and SOLID principles.
+I am a final-year Software Engineering student at **FPT University** (GPA: 3.4/4.0) with hands-on internship experience at **FPT Software Da Nang**. I specialize in building robust backend systems using **C# / ASP.NET Core** and responsive front-ends with **ReactJS**, adhering to Clean Architecture and SOLID principles.
 
 - 🔭 **Featured Product:** Creator of **[MockMate](https://mock-mate.app/)** — an AI-powered mock interview simulator.
 - 💼 **Experience:** Former .NET Developer Intern @ **FPT Software Da Nang**.
