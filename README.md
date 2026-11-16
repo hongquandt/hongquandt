@@ -56,6 +56,6 @@ I am a final-year Software Engineering student at **FPT University** (GPA: 3.4/4
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hongquandt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongquandt&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hongquandt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongquandt&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </p>
